@@ -1,0 +1,10 @@
+fr.utt.lo02.j8.controleur
+fr.utt.lo02.j8.exceptions
+fr.utt.lo02.j8.modele
+fr.utt.lo02.j8.modele.effets
+fr.utt.lo02.j8.modele.jouabilite
+fr.utt.lo02.j8.modele.moteur
+fr.utt.lo02.j8.modele.strategies
+fr.utt.lo02.j8.modele.variantes
+fr.utt.lo02.j8.vue.console
+fr.utt.lo02.j8.vue.graphique
